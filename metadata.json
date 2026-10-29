@@ -1,0 +1,6 @@
+{
+  "name": "TalentPulse EMS",
+  "description": "Comprehensive enterprise employee management system featuring core HR directory, org chart, time & attendance, leave management, automated payroll, performance OKRs, asset tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
